@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-02T02:39:27.704Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="obUK5EPH02eVBEy-ELX0" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-02T02:56:24.457Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="Ei_SNPBh5BoYeDpADF8N" version="14.9.3" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="980" pageHeight="690" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2713" dy="1358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1390" pageHeight="980" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,7 +12,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XiP37MumvkjMzCkYlwh3-149" value="&lt;font color=&quot;#000000&quot;&gt;购买|共享&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#33FF33;" parent="XiP37MumvkjMzCkYlwh3-148" vertex="1" connectable="0">
+        <mxCell id="XiP37MumvkjMzCkYlwh3-149" value="&lt;font color=&quot;#000000&quot;&gt;拉取(购买|共享)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#33FF33;" parent="XiP37MumvkjMzCkYlwh3-148" vertex="1" connectable="0">
           <mxGeometry x="-0.0698" y="6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -135,7 +135,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XiP37MumvkjMzCkYlwh3-125" value="创建" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="XiP37MumvkjMzCkYlwh3-124" vertex="1" connectable="0">
+        <mxCell id="XiP37MumvkjMzCkYlwh3-125" value="创建|参与" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="XiP37MumvkjMzCkYlwh3-124" vertex="1" connectable="0">
           <mxGeometry x="0.0477" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
